@@ -1,6 +1,6 @@
 # Note Taker
 
-Live deployed link or Walkthrough: https://shonen-strong-785fc5b335e5.herokuapp.com/
+Live deployed link or Walkthrough: https://imperiums-logtaker-82b32c23e63b.herokuapp.com/
 
 ![Static Badge](https://img.shields.io/badge/MIT-license?label=license&labelColor=%2332CD30&color=%23A020F0&link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit%2F)
 
