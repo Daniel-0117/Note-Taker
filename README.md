@@ -1,5 +1,4 @@
 # Note Taker
-![HOLD PLEASE]()
 
 Live deployed link or Walkthrough: https://shonen-strong-785fc5b335e5.herokuapp.com/
 
